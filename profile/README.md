@@ -1,9 +1,9 @@
 # 🚀 Alpha Research - AI-Powered Insights
 
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB_ORG/YOUR_REPO?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_ORG/YOUR_REPO?style=social)
-![[GitHub issues](https://github.com/alpharesearchbot/.github/issues)](https://img.shields.io/github/issues/YOUR_GITHUB_ORG/YOUR_REPO)
-![GitHub license](https://img.shields.io/github/license/YOUR_GITHUB_ORG/YOUR_REPO)
+![GitHub Repo stars](https://img.shields.io/github/stars/alpharesearchbot/Alpha?style=social)
+![GitHub forks](https://img.shields.io/github/forks/alpharesearchbot/Alpha?style=social)
+![GitHub issues](https://img.shields.io/github/issues/alpharesearchbot/Alpha)
+![GitHub license](https://img.shields.io/github/license/alpharesearchbot/Alpha)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 
 ---
