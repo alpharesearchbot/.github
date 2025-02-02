@@ -1,7 +1,7 @@
 # 🚀 Alpha Research - AI-Powered Insights
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB_ORG/YOUR_REPO?style=social)
-![GitHub forks](https://github.com/alpharesearchbot/Alpha/fork)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_ORG/YOUR_REPO?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/YOUR_GITHUB_ORG/YOUR_REPO)
 ![GitHub license](https://img.shields.io/github/license/YOUR_GITHUB_ORG/YOUR_REPO)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
