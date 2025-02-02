@@ -2,9 +2,10 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/alpharesearchbot/Alpha?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/alpharesearchbot/Alpha?style=social)
-![GitHub issues](https://img.shields.io/github/alpharesearchbot/Alpha/.github/issues)
+![GitHub issues](https://img.shields.io/github/issues/alpharesearchbot/Alpha)
 ![GitHub license](https://img.shields.io/github/license/alpharesearchbot/Alpha)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
 
 ---
 
